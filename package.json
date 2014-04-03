@@ -39,7 +39,7 @@
   ],
   "main": "lib/json-gate.js",
   "scripts": {
-    "test": "node_modules\\.bin\\vows --spec"
+    "test": "./node_modules/.bin/vows --spec"
   },
   "devDependencies": {
     "should": "*",
